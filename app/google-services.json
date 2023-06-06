@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "311570211660",
+    "project_id": "projectbaru18411054",
+    "storage_bucket": "projectbaru18411054.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311570211660:android:cfd6af79c9672a0ed5a5e9",
+        "android_client_info": {
+          "package_name": "com.example.projectbaru18411054"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311570211660-8nvfd52uls4og472ipdohb03b41lre2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtQzidEeXWORzgSnTlYHUGJwatnS1bDss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311570211660-8nvfd52uls4og472ipdohb03b41lre2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
